@@ -18,6 +18,7 @@
 
 
 # 코드 설계
+> [코드 폴더](https://github.com/worldbiomusic/gababo/tree/main/foundry/src)
 아래는 코드를 만들기 전 구조를 미리 설계한 코드입니다.
 
 **fields**  
